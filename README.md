@@ -1,2 +1,3 @@
-# CodeLib
-Source code of tutorials
+```
+ReduxSimplified: Dead simple redux implementation. Beginner friendly.
+```
